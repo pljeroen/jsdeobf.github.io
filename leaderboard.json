@@ -221,7 +221,13 @@
         "codebleu": 67.34461218044063,
         "overall": 75.98083854098974
       },
-      "combination": {}
+      "combination": {
+        "syntax": 98.14814814814815,
+        "exe": 93.31761006289309,
+        "decomplexity": 93.48806210474839,
+        "codebleu": 50.57594742205719,
+        "overall": 83.88244193446171
+      }
     },
     "is-expert": true,
     "prompt": "None",
