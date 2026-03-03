@@ -208,5 +208,23 @@
     "is-expert": true,
     "prompt": "None",
     "size": 0.0
+  },
+  {
+    "name": "deobfuscate-js",
+    "link": "https://github.com/pljeroen/deobfuscate-js",
+    "open-data": "True",
+    "scores": {
+      "single": {
+        "syntax": 100.0,
+        "exe": 99.31629578442951,
+        "decomplexity": 37.2624461990888,
+        "codebleu": 67.34461218044063,
+        "overall": 75.98083854098974
+      },
+      "combination": {}
+    },
+    "is-expert": true,
+    "prompt": "None",
+    "size": 0.0
   }
 ]
